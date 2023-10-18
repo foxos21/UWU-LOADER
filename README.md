@@ -18,6 +18,7 @@ _____________________________EXE________________________________
 INSTALLER/exe --> https://icedrive.net/s/zvYST7XkN6jAD48BF4VihhB3k1kj
 
 INSTALLER/exe --> https://github.com/foxos21/UWU-LOADER/blob/main/Beta%20UWU%20INSTALLER.exe
+
 _____________________________ZIP________________________________
 
 ZIP --> https://icedrive.net/s/xFvxDiwfzX8WDj9Tjyt27YRCw8vT
